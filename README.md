@@ -1,7 +1,7 @@
 # Project-Vrinda-Store-Annual-Sales-Report.
 This is a project that shows  :
 
-Vrinda store do their sales via online sales through  different channels.
+Vrinda store is an online retailer that sells online through  different channels.
 
 Vrinda store wants to create an annual sales report for 2022. So that, the Vrinda store can understand its customers and grow more sales in 2023.
 
